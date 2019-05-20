@@ -1,0 +1,19 @@
+{
+  "name": "cms-shopping_cart",
+  "version": "1.0.0",
+  "description": "This is the shopping cart project with nodejs express and mongodb\r this is most stunning shopping cart\r Enjoy the project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihiran94/CMS-shopping_cart.git"
+  },
+  "author": "Mihiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mihiran94/CMS-shopping_cart/issues"
+  },
+  "homepage": "https://github.com/Mihiran94/CMS-shopping_cart#readme"
+}

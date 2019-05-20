@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Mihiran94/CMS-shopping_cart/issues"
   },
-  "homepage": "https://github.com/Mihiran94/CMS-shopping_cart#readme"
+  "homepage": "https://github.com/Mihiran94/CMS-shopping_cart#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "g": "^2.0.1",
+    "nodemon": "^1.19.0"
+  }
 }
